@@ -1,0 +1,117 @@
+body {
+    width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    color:rgb(4, 63, 4);
+}
+.banner{
+    height: 30px;
+    
+    background-color: #F4F7E2;
+    text-align: center;
+       
+}
+
+.banner_txt {
+    color: rgb(7, 114, 7);
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+
+.logo{
+    height: 100px;
+    width: 100px;
+    float: left;
+    padding-left: 50px;
+   
+}
+
+header {
+    height: 100px;
+}
+
+.header_logo{
+    float: left;
+
+}
+
+.header_mid{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header_right{
+    float: right;
+}
+
+nav {
+    background-color: #F4F7E2;
+    margin-bottom: 15px;
+}
+
+main {
+   height: 700px;
+   background-color: rgb(235, 235, 235);
+}
+
+footer{
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #F4F7E2 ;
+}
+
+.background_img{
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top:0;
+    left: 0;
+    opacity: 10%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(92, 128, 97);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: rgb(58, 82, 61);
+  }
+
+h2{
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.icon{
+    float: left;
+    height: 110px;
+    width: 110px;
+}
+
+.section{
+    padding-left: 140px; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 14px;  
+}
